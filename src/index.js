@@ -15,7 +15,7 @@ class Header extends HTMLElement {
                 <a class="text-lg" href="index.html">Home</a>
                 <a class="text-lg" href="conferences.html">Conferences</a>
                 <!-- <a class="text-lg" href="">Workshops</a> -->
-                <a class="text-lg" href="">Community Service</a>
+                <!-- <a class="text-lg" href="">Community Service</a> -->
                 <a class="text-lg" href="">Sponsors</a>
                 <a class="text-lg bg-sky-900/80 p-2 rounded-md border-2 border-sky-900/90 hover:bg-sky-800/70 transition-colors" href="">Become a Member</a>
               </nav>
@@ -32,7 +32,7 @@ class Header extends HTMLElement {
                 <div>
                     <h3 class="text-sm font-semibold leading-6 text-white">About</h3>
                     <ul role="list" class="mt-6 space-y-4">
-                        <li><a class="text-sm leading-6 text-gray-300 hover:text-white" href="">Competitions</a></li>
+                        <li><a class="text-sm leading-6 text-gray-300 hover:text-white" href="">Conferences</a></li>
                         <li><a class="text-sm leading-6 text-gray-300 hover:text-white" href="">Membership</a></li>
                         <li><a class="text-sm leading-6 text-gray-300 hover:text-white" href="">Advisers</a></li>
                     </ul>
